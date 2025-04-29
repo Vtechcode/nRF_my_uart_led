@@ -179,7 +179,7 @@ CMAKE_GDB:FILEPATH=C:/ncs/toolchains/2d382dcd92/opt/zephyr-sdk/arm-zephyr-eabi/b
 CMAKE_GDB_NO_PY:FILEPATH=C:/ncs/toolchains/2d382dcd92/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb.exe
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files/Zephyr-Kernel
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Zephyr-Kernel
 
 //Program used to build from build.ninja files.
 CMAKE_MAKE_PROGRAM:FILEPATH=C:/ncs/toolchains/2d382dcd92/opt/bin/ninja.exe
